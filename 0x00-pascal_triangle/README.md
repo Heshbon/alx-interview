@@ -1,0 +1,3 @@
+# Pascal's Triangle.
+
+This project focuses on implementing Pascal's Triangle in Python. Pascal's Triangle is a mathematical construct that has applications in various fields such as combinatorics and probability. The triangle is constructed such that each element is the sum of the two elements directly above it. In this project I develop a Python function `pascal_triangle(n)` that generates Pascal's Triangle up to the nth row. This involves understanding fundamental Python concepts such as lists, list comprehensions, functions, loops, conditional statements, and arithmetic operations. Additionally, I also considered optional concepts like recursion, error handling, memory management, and optimization to refine my implementation.
