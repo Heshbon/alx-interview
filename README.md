@@ -12,6 +12,10 @@ This repository contains solutions to various algorithmic and data structure cha
 
   + <u>[0x04-utf8_validation](https://github.com/Heshbon/alx-interview/tree/master/0x04-utf8_validation)</u>.
 
+  + <u>[0x05-nqueens](https://github.com/Heshbon/alx-interview/tree/master/0x05-nqueens)</u>.
+
+  + <u>[0x06-starwars_api](https://github.com/Heshbon/alx-interview/tree/master/0x06-starwars_api)</u>.
+
 # Author ✒️
 
 Hesbon Kipchirchir <u>[Heshbon](https://github.com/Heshbon)</u>
