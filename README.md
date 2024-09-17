@@ -16,6 +16,10 @@ This repository contains solutions to various algorithmic and data structure cha
 
   + <u>[0x06-starwars_api](https://github.com/Heshbon/alx-interview/tree/master/0x06-starwars_api)</u>.
 
+  + <u>[0x07-rotate_2d_matrix](https://github.com/Heshbon/alx-interview/tree/master/0x07-rotate_2d_matrix)</u>.
+
+  + <u>[0x08-making_change](https://github.com/Heshbon/alx-interview/tree/master/0x08-making_change)</u>.
+
 # Author ✒️
 
 Hesbon Kipchirchir <u>[Heshbon](https://github.com/Heshbon)</u>
