@@ -20,6 +20,8 @@ This repository contains solutions to various algorithmic and data structure cha
 
   + <u>[0x08-making_change](https://github.com/Heshbon/alx-interview/tree/master/0x08-making_change)</u>.
 
+  + <u>[0x09-island_perimeter](https://github.com/Heshbon/alx-interview/tree/master/0x09-island_perimeter)</u>.
+
 # Author ✒️
 
 Hesbon Kipchirchir <u>[Heshbon](https://github.com/Heshbon)</u>
